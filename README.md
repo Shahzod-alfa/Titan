@@ -1,2 +1,0 @@
-# Titan
-Tiwar.ru
